@@ -24,7 +24,7 @@ Right now, our asset list is not finished. We are missing important details like
 Väst Vindpark has two wind turbines. The OT network controls and monitors the turbines. The IT network handles business tasks and allows remote workers to connect via VPN.
 
 ### 1.2 Logical Network Drawing & Zoning (Purdue Model)
-<img width="1376" height="1697" alt="bild (1)" <img src="https://github.com/BeyarSWE/NorthStar-Logistics-Architecture/blob/main/assets/Full_Logical_Network_Topologi.png?raw=true" width="1376" alt="Full Logical Network Topology">
+<img src="https://github.com/BeyarSWE/NorthStar-Logistics-Architecture/blob/main/assets/Full_Logical_Network_Topologi.png?raw=true" width="1376" alt="Full Logical Network Topology">
 
 ### 1.3 Security Levels and Conduits  
 
