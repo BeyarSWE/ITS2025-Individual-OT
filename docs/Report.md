@@ -79,4 +79,4 @@ I have prioritized the top 5 security actions from IEC 62443-3-3. This plan will
 
 ### Compliance and Improvements
 To identify the differences between current security measures and the desired security state, refer to the
-[Gap Analysis](https://github.com/ITS25-OT/Industrial-Control-Systems-Security-Analysis/blob/main/docs/Gap-Analysis.md)
+[Gap Analysis](https://github.com/BeyarSWE/NorthStar-Logistics-Architecture/blob/main/docs/Gap-Analysis.md)
