@@ -30,7 +30,7 @@ Väst Vindpark has two wind turbines. The OT network controls and monitors the t
 
 ### System Overview
 For a complete list of hardware and software components, see the
-[Asset Inventory](https://github.com/ITS25-OT/Industrial-Control-Systems-Security-Analysis/blob/main/assets/asset-inventory.md)
+[Asset Inventory](https://github.com/BeyarSWE/ITS2025-Individual-OT/blob/main/assets/asset-inventory.md)
 
 ## 2 Risk Assessment Insights 
 
